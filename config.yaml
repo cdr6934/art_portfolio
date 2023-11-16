@@ -62,11 +62,11 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: genart
-      url: /tags/genart/
+    - name: generative
+      url: /tags/generative/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: photography
+      url: /tags/photography/
       weight: 3
     - name: archive
       url: /tags/archive/
@@ -74,3 +74,6 @@ menu:
     - name: about
       url: /about/
       weight: 5
+    - name: newsletter
+      url: https://generative.substack.com/
+      weight: 6
