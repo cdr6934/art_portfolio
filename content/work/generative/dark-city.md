@@ -9,3 +9,5 @@ tags:
 - work
 - generative
 ---
+
+One of the things about light, is that it spreads and has this interesting spread over a specific spread of time. What this does is really the opportunity

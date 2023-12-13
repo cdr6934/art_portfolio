@@ -1,16 +1,15 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Chris Ried Portfolio # todo: change site name.
-defaultContentLanguage: 'en'
+baseURL: https://www.generatecoll.com
+title: Chris Ried Portfolio
+defaultContentLanguage: en
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
-
+googleAnalytics: ''
 params:
   image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
-  subtitle: Portfolio of Chris Ried  # todo: change default subtitle for your website.
-  copyright: All rights reserved. # todo: set your copyright type.
-  author: Chris Ried # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  logo: logo.png
+  subtitle: Portfolio of Chris Ried
+  copyright: All rights reserved.
+  author: Chris Ried
+  dontShowSource: false
   portfolio:
     columns:
       desktop:
@@ -23,40 +22,36 @@ params:
         archive: 3
         people: 1
   socials:
-    # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:chris.ried@cbayes.com'
+    - icon: far fa-envelope fa-lg
+      url: mailto:chris.ried@cbayes.com
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
+    - icon: fab fa-github fa-lg
+      url: https://github.com/cdr6934
       landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/generate.collective'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+    - icon: fab fa-instagram fa-lg
+      url: https://instagram.com/generate.collective
+    - icon: fab fa-linkedin-in fa-lg
+      url: https://www.linkedin.com/in/chrisried/
+  homepage: /work
   specialPages:
     - work
     - archive
-  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
-  plausible: '' # todo: set your plausible id.
+    - about
+  bypassWelcomePage: true
+  disableWelcomePageBackground: false
+  plausible: ''
   disableRadius: false
-  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  moveIt: false
   disableAlwaysResize: false
-
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
-
 taxonomies:
   tag: tags
-
 permalinks:
-  work: ":filename/"
-
+  work: ':filename/'
 menu:
   main:
     - name: work
@@ -68,12 +63,18 @@ menu:
     - name: photography
       url: /tags/photography/
       weight: 3
-    - name: archive
-      url: /tags/archive/
+    - name: writing
+      url: /tags/writing/
       weight: 4
+    - name: public
+      url: /public_work/
+      weight: 5
+    - name: portfolio
+      url: /portfolio/
+      weight: 6
     - name: about
       url: /about/
-      weight: 5
+      weight: 7
     - name: newsletter
       url: https://generative.substack.com/
-      weight: 6
+      weight: 8
