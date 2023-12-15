@@ -9,7 +9,6 @@ images:
 - https://unsplash.com/photos/I_bjlEDTB0g/download?ixid=M3wxMjA3fDB8MXxhbGx8MjF8fHx8fHwyfHwxNzAwMTIxNjcwfA&force=true
 - https://unsplash.com/photos/suCp1VtE_pA/download?ixid=M3wxMjA3fDB8MXxhbGx8MzN8fHx8fHwyfHwxNzAwMTIxNjcxfA&force=true
 - https://unsplash.com/photos/79NfyK85Ahc/download?ixid=M3wxMjA3fDB8MXxhbGx8NXx8fHx8fDJ8fDE3MDAwNzg2OTl8&force=true
-multipleColumn: column
 title: Iceland 2016
 date: 2016-11-06
 tags:

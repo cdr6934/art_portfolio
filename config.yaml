@@ -32,6 +32,8 @@ params:
       url: https://instagram.com/generate.collective
     - icon: fab fa-linkedin-in fa-lg
       url: https://www.linkedin.com/in/chrisried/
+    - icon: fab fa-twitter fa-lg
+      url: https://twitter.com/generatecoll
   homepage: /work
   specialPages:
     - work

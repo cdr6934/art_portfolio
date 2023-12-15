@@ -1,7 +1,6 @@
 ---
 weight: 1
 images:
-- https://picsum.photos/200
 title: Interview - Tyler Hobbs 
 date: 2021-11-06
 hideExif: true
