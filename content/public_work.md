@@ -16,6 +16,13 @@ hideDate: true
 ## Selected Presentations 
 - [Examples of Data Visualizations: Genuary, Sphere Packings and Wind Turbines in Observable](https://www.youtube.com/live/1o8e2k5-_Fc?si=au-oiipDXM_UCqaP)
 
+- C. D. Ried*, Arthur Totten*, Andrew Varble*, Matthew Woodruff*, M. C. Ferran, “The Role of the VSV-M Protein on Regulation of NF-B.” 35th Annual Fall Scientific Paper Session, Rochester Academy of Science, Pittsford, NY, November 2008 (Talk).
+
+- C. D. Ried, M. C. Ferran, “Role of the VSV M Protein on NF-B Regulation in L929 Cells.” 17th Annual Undergraduate Research Symposium, RIT, Rochester, NY, August 2008 (Talk).
+
+ - C. D. Ried, M. C. Ferran, “The Effect of Vesicular Stomatitis Virus Matrix Protein on NF-kB.” Research Scholars Program Requirement, RIT, Rochester, NY, January 2009 (Talk).
+ 
+
 ## Interviews / Podcasts 
 - (2022) [ippSketch, Piter Pasma and Chris Ried about Generative Art](https://www.listennotes.com/podcasts/minters-makers-by/ippsketch-piter-pasma-and-BwMTGX1Q6PE/)
 - (2021) [Tyler Hobbs Interview on Youtube](https://www.youtube.com/watch?v=pTesZREe73c&t=624s)

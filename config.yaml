@@ -5,7 +5,7 @@ theme: eternity
 googleAnalytics: ''
 params:
   image: /images/banner.png
-  logo: logo.png
+  logo: logo.gif
   subtitle: Portfolio of Chris Ried
   copyright: All rights reserved.
   author: Chris Ried
@@ -71,12 +71,9 @@ menu:
     - name: public
       url: /public_work/
       weight: 5
-    - name: portfolio
-      url: /portfolio/
-      weight: 6
     - name: about
       url: /about/
-      weight: 7
+      weight: 6
     - name: newsletter
       url: https://generative.substack.com/
-      weight: 8
+      weight: 7
