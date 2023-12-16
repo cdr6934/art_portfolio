@@ -10,7 +10,6 @@ title: Washington 2023
 date: 2023-06-16
 tags:
 - archive # all posts
-- work
 - photography
 ---
 

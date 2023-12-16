@@ -6,7 +6,6 @@ title: Smoky Mountains Sundown
 date: 2018-01-16
 tags:
 - archive # all posts
-- work
 - photography
 ---
 

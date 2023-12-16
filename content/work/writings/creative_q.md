@@ -1,7 +1,7 @@
 ---
 weight: 1
 images:
-    - https://live.staticflickr.com/65535/53398436157_37e5e7a06c_o_d.gif
+    - https://live.staticflickr.com/65535/53401867584_5ab01ae150_o_d.gif
 title: Synthetic Sequences
 date: 2023-11-06
 hideExif: true

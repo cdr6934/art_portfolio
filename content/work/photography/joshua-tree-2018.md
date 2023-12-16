@@ -8,6 +8,5 @@ title: Joshua Tree
 date: 2018-11-06
 tags:
 - archive # all posts
-- work
 - photography
 ---

@@ -13,7 +13,6 @@ title: Iceland 2016
 date: 2016-11-06
 tags:
 - archive # all posts
-- work
 - photography
 
 ---
