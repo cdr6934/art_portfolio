@@ -35,3 +35,6 @@ Alda is a text-based programming language for music composition. It allows the u
 ## Selected Writings 
 - (2022) [Generative 3D Art Tools and Inspirations](https://medium.com/@generatecoll/generative-3d-art-tools-and-inspirations-b39e270ce7f9)
 - (2010s) [Tracks](https://generatecoll.medium.com/tracks-d7603a880e36) - Poetry 
+
+## 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/649417667&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/chris_ried" title="Analyte" target="_blank" style="color: #cccccc; text-decoration: none;">Analyte</a> · <a href="https://soundcloud.com/chris_ried/into-the-twilight" title="Into the Twilight" target="_blank" style="color: #cccccc; text-decoration: none;">Into the Twilight</a></div>
