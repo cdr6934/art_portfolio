@@ -3,6 +3,7 @@ weight: 1
 images:
     - https://live.staticflickr.com/65535/53406092770_c09004c823_o_d.gif
 title: Generative Art -  The Story, It's Uses, and Future 
+date: 2023-01-04
 hideExif: true
 hideDate: true
 tags:
