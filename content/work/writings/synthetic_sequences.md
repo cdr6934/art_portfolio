@@ -12,4 +12,4 @@ tags:
 - work
 ---
 
-[Observable Notebook](https://observablehq.com/d/12baedb46b799490)
+[Observable Notebook](https://observablehq.com/d/281b91fdea3db74c)

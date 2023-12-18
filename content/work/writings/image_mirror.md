@@ -10,5 +10,8 @@ tags:
 - archive # all posts
 - writing
 - work
+- C++
+- OpenFrameworks 
 ---
 
+The following is a little test module I was building in order to take some time and understand the OpenFrameworks APIs when it came to images. 
