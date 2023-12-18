@@ -13,7 +13,7 @@ tags:
 # Concept
 
 The idea behind these pieces was me sorting out my own thoughts about NFTs and art. There is so much to be said when 
-money is a contributing factor. 
+money is a contributing factor. It is alluring and it is nice to know that individuals have an interest in the work that you do. But specifically they are interested in the long term effects that you provide with owning a piece of the art that you are collecting. 
 
 I think I saw that the drive to make.. fueled by the money was something I needed to reconcile. I love the process of creating and when it started to merge at becoming so upset of not curated status on a project I was working on, well I ended up realizing I needed to step back and reconsider what it means.
 
