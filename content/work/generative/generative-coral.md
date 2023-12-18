@@ -17,35 +17,4 @@ I used [OpenSCAD](https://openscad.org/) and found that it was quite easy to mak
 ![OpenSCAD](https://live.staticflickr.com/65535/53405224993_ce31fbaf80_b_d.jpg)
 
 
-```
-module arm(r, marg) {
-union() {
-    for(i = [0:1:20])
-    {
-        translate([rands(-5,5,1)[0],rands(-5,5,1)[0],i*r*marg]) {
-            sphere(r);
-        }
-    } 
-    }
-}
-
-module branch() {
-union() {
-    arm(5,0.8); 
-    arm(2,0.8); 
-    arm(3,0.8); 
-}
-}
-
-branch(); 
-for(i=[0:1:10])
-    {
-    ang = rands(-45,45,1)[0]; 
-    dis = rands(-30,30,1)[0];
-    translate([0,0,dis]) {
-        rotate([ang,ang,ang]) {
-        branch(); 
-        }
-    }
-}
-```
+{{< gist cdr6934 c76b513ac5e9da1ec8a99e660cbb5b35>}}
