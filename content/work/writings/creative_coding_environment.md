@@ -13,3 +13,5 @@ tags:
 ---
 
 Following https://observablehq.com/d/10397b6df11b187f 
+
+I've used this in a few of my newsletters. 

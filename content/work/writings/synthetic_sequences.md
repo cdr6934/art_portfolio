@@ -13,3 +13,6 @@ tags:
 ---
 
 [Observable Notebook](https://observablehq.com/d/281b91fdea3db74c)
+
+## Purpose: 
+To blend biology with the arts as a way to teach simple concepts about DNA sequences and explore my curiosity to create a primitive synthetic system.
