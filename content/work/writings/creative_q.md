@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-    - https://live.staticflickr.com/65535/53401867584_5ab01ae150_o_d.gif
-title: Synthetic Sequences
+    - https://live.staticflickr.com/65535/53405100138_a5dfa60fc3_b_d.jpg
+title: CreativeQ
 date: 2023-11-06
 hideExif: true
 hideDate: true
